@@ -9,8 +9,8 @@
     "compress",
     "bot"
   ],
-  "success_url": "😐😐😐",
-  "website": "no website",
+  "success_url": "https://t.me/heist_mirror_proBot",
+  "website": "https://t.me/heist_mirror_proBot",
   "repository": "https://github.com/adamammofake/a",
   "env": {
     "ENV": {
