@@ -74,10 +74,10 @@ async def help_message_f(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Updates Channel', url='😐')
+                    InlineKeyboardButton('Updates Channel', url='https://t.me/heist_mirror_proBot')
                 ],
                 [
-                    InlineKeyboardButton('Support Group', url='🙃')
+                    InlineKeyboardButton('Support Group', url='https://t.me/heist_mirror_proBot')
                 ],
                 [
                     InlineKeyboardButton('Developer', url='https://t.me/AbirHasan2005'), # Bloody Thief, Don't Become a Developer by Stealing other's Codes & Hard Works!
