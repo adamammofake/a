@@ -97,10 +97,10 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Updates Channel', url='null')
+                    InlineKeyboardButton('Updates Channel', url='https://t.me/heist_mirror_proBot')
                 ],
                 [
-                    InlineKeyboardButton('Support Group', url='😐')
+                    InlineKeyboardButton('Support Group', url='https://t.me/heist_mirror_proBot')
                 ]
             ]
         ),
