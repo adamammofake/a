@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c)
 
 import traceback
 import datetime
